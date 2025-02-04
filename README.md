@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Portfolio
 
 A modern, feature-rich personal portfolio built using Flutter. This application serves as a platform to showcase skills, projects, and achievements in a visually appealing and interactive way.
@@ -31,6 +31,3 @@ flutter pub get
  Use the following command to launch the app:
 
 flutter run
-=======
-
->>>>>>> fab9a9189e04f50535a8b4dc4dedbf745c54fb96
